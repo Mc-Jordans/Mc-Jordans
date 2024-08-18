@@ -27,6 +27,6 @@ Welcome to my GitHub profile! I'm an aspiring **multimillionaire** with a passio
 
 ## 💬 Let's Connect
 
-- **GitHub**: [your-username](https://github.com/your-username)
+- **GitHub**: (https://github.com/Mc-Jordans)
 - **LinkedIn**: [Your LinkedIn Profile] (if applicable)
 - **Twitter**: [Your Twitter Handle] (if applicable)
