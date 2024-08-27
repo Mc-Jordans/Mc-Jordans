@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm an aspiring **multimillionaire** with a passio
 ## 🚀 My Projects
 
 - **[Law Firm Website](https://github.com/Mc-Jordans/law-firm-website)**: A professional, responsive website for a law firm, optimized for performance and hosted on Vercel.
+- - **[AnyMail](https://github.com/Mc-Jordans/AnyMail)**: A professional, responsive website for a sending mails, optimized for performance.
 
 ## 📈 My Goals
 
